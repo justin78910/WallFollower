@@ -76,8 +76,8 @@ int main(void){ unsigned long delay;
 	EnableInterrupts();
 	
 	Nokia5110_Init();
-  Nokia5110_Clear();
-  Nokia5110_OutString("************CECS347 LAB4************");
+  Nokia5110_Clear();               
+  Nokia5110_OutString("************WallFollower************");
 	Nokia5110_OutString("hdL         ");//Table DistanceValue
 	Nokia5110_OutString("hdR         ");//ADC Value
 	Nokia5110_OutString("pS          ");//Calibrated Distance
