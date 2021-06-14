@@ -11,7 +11,9 @@ Requirements:
 
 Doing this project will give you an understanding in the following areas: 
 Basic Hardware Components 
-GPIO
+GPIO and Port Initialization
+Port Handlers
+Systick Timer
 H-Bridge Motor Driver 
 Hardware Timers
 Interrupts
