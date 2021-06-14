@@ -30,3 +30,6 @@ I referenced the lecture notes and used the knowledge from each section of the c
 to complete this project. To fully understand the code and what is going on,
 make sure to study up on each topic mentioned above with respect to the 
 TM4C123GH6PM - Hello Launchpad board.
+
+I did not upload the #include "Nokia5110.c" file since I did not code it myself.
+It was given to us for use in previous projects.
